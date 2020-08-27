@@ -1,8 +1,9 @@
-# Age-Calculator-Web
+# Age-Calculator-WebApp
 ------------------------
 Made with HTML5, CSS & JavaScript
 -----------------------
-Mady by Shuvongkor
-See it here: https://shuvongkor-barman.github.io/Age-Calculator-Web/
+See it here:
+
+https://shuvongkor-barman.github.io/Age-Calculator-Web
 -----------------------
 ![](Screenshot/AgeCalculator.jpg)
